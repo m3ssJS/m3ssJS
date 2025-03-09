@@ -10,6 +10,8 @@
 
 ![Messias's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3ssJS&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3ssJS&langs_count=8)
+
 ### Tecnologias em que estou focado:
 
 <div style="display: inline_block"><br/>
