@@ -5,6 +5,8 @@
 - 🔭 Em busca de conquistar uma oportunidade
 - 🌱 Atualmente estudando e aprendendo mais sobre Reac e Reac Native
 
+Estudante de Análise e Desenvolvimento de Sistemas na Faculdade FATEC Franca/SP. Atualmente não trabalho na área mas sigo estudando e aprendendo principalmente tecnologias Front-End. Estou constantemente buscando novos desafios na área de tecnologia com Paixão e Entusiasmo, aprendendo e ensinando.
+
 #
 
 ### Connect with me!
