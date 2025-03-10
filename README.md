@@ -1,21 +1,29 @@
+# Welcome to my Profile!
 
-### Olá! Eu sou o Bruno Messias ✌️
+### PRAZER! Bruno Messias ✌️
 
 - 🔭 Em busca de conquistar uma oportunidade
 - 🌱 Atualmente estudando e aprendendo mais sobre Reac e Reac Native
 
+#
 
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)
-![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)
+### Connect with me!
+
+![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+#
+
+### GitHub Stats
 
 ![Messias's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3ssJS&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3ssJS&layout=compact&theme=dracula)
 
-### Tecnologias em que estou focado:
+#
+
+### Technologies
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML-5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,3 +43,8 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </div>
 
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m3ssJS/m3ssJS/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m3ssJS/m3ssJS/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/m3ssJS/m3ssJS/output/github-contribution-grid-snake.svg">
+</picture>
